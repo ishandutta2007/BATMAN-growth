@@ -36,8 +36,8 @@ python BATMAN-growth.py
 ## See Also
 
 
-![FAANG-growth] (https://github.com/ishandutta2007/FAANG-growth)
-![DOGMA-growth] (https://github.com/ishandutta2007/DOGMA-growth)
+- [FAANG-growth](https://github.com/ishandutta2007/FAANG-growth)
+- [DOGMA-growth](https://github.com/ishandutta2007/DOGMA-growth)
 
 
 ## ⭐️ Star History
