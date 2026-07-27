@@ -7,6 +7,15 @@
   <img src="assets/banner.svg" width="100%" alt="BATMAN Growth Banner">
 </p>
 
+
+- B - Broadcom
+- A - AMD
+- T - Tesla
+- M - Micron
+- A - ASML
+- N - Nvidia
+  
+
 This repository analyzes the historical headcount trends for top Semiconductor companies (BATMAN(Broadcom, AMD, Tesla, Micron. ASML, Nvidia) + Intel) between 2019 and 2025. Specifically, it subsets the data to estimate and visualize the number of software engineers at each company.
 
 ## ✨ Features & Calculations 📊
